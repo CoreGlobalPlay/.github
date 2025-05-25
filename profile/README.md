@@ -24,5 +24,7 @@ We are dedicated to building decentralized applications and blockchain solutions
 - OpenZeppelin
 - React + Web3.js / Ethers.js
 - Privy - Web3 Social Login
+- VRF - Switchboard
+- Fully Decentralize - CoreDAO
 
 🌐 Visit our website: [coreplay.space](https://coreplay.space)
